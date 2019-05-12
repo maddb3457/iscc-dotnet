@@ -4,6 +4,8 @@ using System.Text;
 
 namespace ISCC.Builders
 {
+    using Interfaces;
+
     public class ContentIdBuilder : IContentIdBuilder
     {
 

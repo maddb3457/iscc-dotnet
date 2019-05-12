@@ -1,7 +1,9 @@
 ﻿namespace ISCC.Interfaces
 {
+    using System.Dynamic;
+
     public interface IMetaIdBuilder
     {
-        byte[2] 
+        byte[] GetMetaId();
     }
 }
