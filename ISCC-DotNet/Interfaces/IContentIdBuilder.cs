@@ -2,6 +2,6 @@
 {
     public interface IContentIdBuilder
     {
-        byte ContentIdText(string text, bool partial = false);
+        byte GetContentId(object content, bool partial = false);
     }
 }
