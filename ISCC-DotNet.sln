@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISCC-DotNet", "ISCC-DotNet\ISCC-DotNet.csproj", "{A1794B8F-36B2-4AD6-AF16-19DCC634C2CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISCCTests", "ISCCTests\ISCCTests.csproj", "{372FA164-71C9-4E80-865A-B6F25A2ACE2C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A1794B8F-36B2-4AD6-AF16-19DCC634C2CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1794B8F-36B2-4AD6-AF16-19DCC634C2CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1794B8F-36B2-4AD6-AF16-19DCC634C2CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{372FA164-71C9-4E80-865A-B6F25A2ACE2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{372FA164-71C9-4E80-865A-B6F25A2ACE2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{372FA164-71C9-4E80-865A-B6F25A2ACE2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{372FA164-71C9-4E80-865A-B6F25A2ACE2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
